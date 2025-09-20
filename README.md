@@ -2,8 +2,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3BxeHJkbWd5bzk5azNpZ3kzbHB4eTJoYm93dTNsbXVvMjl0aGp5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="blue coding gif" width="600" />
 </p>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mhax+Santy+D+De+Venecia;2nd+Year+Computer+Science+Student;Aspiring+Full-stack+Developer;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
