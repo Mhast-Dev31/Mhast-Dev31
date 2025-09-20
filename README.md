@@ -1,4 +1,7 @@
-<!-- Animated Typing SVG Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="blue coding gif" width="600" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mhax+Santy+D+De+Venecia;2nd+Year+Computer+Science+Student;Aspiring+Full-stack+Developer;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
