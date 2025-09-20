@@ -52,16 +52,12 @@
 
 ---
 
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhast-dev31&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhast-dev31&theme=tokyonight&ring=00BFFF&fire=1E90FF&currStreakLabel=00BFFF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhast-dev31&layout=compact&theme=tokyonight&title_color=00BFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhast-dev31&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhast-dev31&theme=tokyonight&ring=00BFFF&fire=1E90FF&currStreakLabel=00BFFF" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhast-dev31&layout=compact&theme=tokyonight&title_color=00BFFF" alt="Top Languages" height="160"/>
 </p>
