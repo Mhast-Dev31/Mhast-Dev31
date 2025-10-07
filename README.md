@@ -21,7 +21,7 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 - 🌱 Currently learning **Python, Java, Django, React**  
-- 🎯 Goal: Become a **Full-stack Developer**  
+- 🎯 Goal: Become a **Full-stack Developer/Web Game Developer**  
 - 📫 Reach me at **santymhax@gmail.com**
 
 ---
